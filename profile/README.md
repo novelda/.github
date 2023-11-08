@@ -1,3 +1,5 @@
+![Novelda Banner](./images/novelda_banner.svg)
+
 # Novelda  Ultra-Low Power UWB Radar Sensors
 
 Welcome to [Novelda's](https://novelda.com) GitHub space! This is the starting
