@@ -6,8 +6,9 @@ Welcome to [Novelda's](https://novelda.com) GitHub space! This is the starting
 point in getting started with a radar demo and developing your first radar
 application. 
 
-Just want to get started? Download [HPD Studio](https://novelda.com/x4-demo-kit)
-and connect your sensor and you will see radar data in real time. 
+Do you already have demo kit and want to see the data? Download 
+[HPD Studio](https://novelda.com/x4-demo-kit) and connect your sensor and you
+will see radar data in real time. 
 
 Want to run a proper demo? Visit our demos repository! 
 
