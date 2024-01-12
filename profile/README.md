@@ -1,4 +1,4 @@
-![Novelda Banner](https://github.com/novelda/.github/blob/main/profile/images/novelda_banner.svg)
+![Novelda Banner](https://github.com/novelda/.github/blob/main/profile/images/novelda_banner.png)
 
 # Novelda  Ultra-Low Power UWB Radar Sensors
 
